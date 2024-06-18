@@ -6,3 +6,7 @@ MONTAGEM: Utilizamos de 4 botões, uma resistência, um sensor de distância ult
 
 RESULTADOS OBTIDOS: Primeiro, coloca-se a senha que é recebida pelo código. Após passar na frente do sensor, é tocado um alarme que só é desativado quando digita-se a senha ele é parado.
 ![imagem](https://github.com/laurapersilva/Arduino/assets/161455932/f05fe2d3-b4cf-44ac-b39b-15c048cafa1c)
+
+
+https://github.com/laurapersilva/Arduino/assets/161455932/6323eced-9c58-4b8e-a71f-d3409d9f0a11
+
